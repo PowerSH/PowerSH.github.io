@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: https://PowerSH.github.io/
-  - title: "Category"
-    url: https://PowerSH.github.io/Category/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
