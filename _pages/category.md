@@ -1,7 +1,7 @@
 ---
 permalink: /categories/
 title: "Category"
-excerpt: "category.md"
-tags: [categories]
+layout: categories
+author_profile: true
 ---
 HI?
